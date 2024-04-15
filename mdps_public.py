@@ -8,7 +8,6 @@ Created on Mon Apr 15 16:56:15 2024
 import numpy as np
 import pickle
 import streamlit as st
-import scikit-learn
 
 # Lode The Saving Model
 # loaded_model = pickle.load(open(r'C:/Users\ah407\OneDrive\Desktop/Diabetes deployment/trained_model.sav','rb'))
