@@ -4,7 +4,7 @@ Created on Mon Apr 15 16:56:15 2024
 
 @author: ah407
 """
-
+import sklearn
 import numpy as np
 import pickle
 import streamlit as st
